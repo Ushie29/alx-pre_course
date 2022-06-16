@@ -1,1 +1,1 @@
-My first readme
+thanks mezie for helping me
