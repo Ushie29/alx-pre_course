@@ -1,1 +1,1 @@
-thanks mezie for helping me
+My first readme
